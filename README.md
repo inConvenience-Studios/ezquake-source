@@ -86,9 +86,9 @@ Copy the compiled binary to your Quake folder, the binary is called `ezquake.exe
 ##### Tree
 
 Id Tech 2 (Quake 1)
-      |
+      ->
 A few source ports
-      |
+      ->
 EZQuake
-      |
+      ->
 storquake
